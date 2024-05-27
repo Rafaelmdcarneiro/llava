@@ -1,18 +1,7 @@
-# LLaVA++: Extending Visual Capabilities with LLaMA-3 and Phi-3
+# Extending Visual Capabilities with LLaMA-3 and Phi-3
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Models">
 </p>
-
-#### [Hanoona Rasheed](https://www.hanoonarasheed.com/)\*, [Muhammad Maaz](https://www.muhammadmaaz.com)\*, [Salman Khan](https://salman-h-khan.github.io/), and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
-\* Equal contributions
-
-#### **Mohamed bin Zayed University of AI (MBZUAI)**
-
-[![Google](https://img.shields.io/badge/Google-Colab-red)](https://colab.research.google.com/drive/10Z2HaY5zvy2GZZ4v245PtiDPukm0NbF6?usp=sharing)
-[![Demo](https://img.shields.io/badge/Online-Demo-F9D371)](https://bengal-eminent-wasp.ngrok-free.app)
-[![Demo](https://img.shields.io/badge/HF_Demo-LLaMA_3-0FFFFF.svg)](https://huggingface.co/spaces/MBZUAI/LLaMA-3-V)
-[![Demo](https://img.shields.io/badge/HF_Demo-Phi_3-0FFFFF.svg)](https://huggingface.co/spaces/MBZUAI/Phi-3-V)
-
 ---
 
 ## 📢 Latest Updates
