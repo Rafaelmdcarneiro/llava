@@ -121,24 +121,3 @@ bash LLaMA3-V_pretrain.sh
 cd LLaVA
 bash LLaMA3-V_finetune_lora.sh
 ```
-
----
-## 🙏 Acknowledgement
-We are thankful to [LLaVA](https://github.com/haotian-liu/LLaVA.git), [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval.git) and [S<sup>2</sup>-Wrapper](https://github.com/bfshi/scaling_on_scales.git) for releasing their models and code as open-source contributions.
-
-In case if you face any issues or have any questions, please feel free to create an issue or reach out at [hanoona.bangalath@mbzuai.ac.ae](hanoona.bangalath@mbzuai.ac.ae) & [muhammad.maaz@mbzuai.ac.ae](muhammad.maaz@mbzuai.ac.ae).
-
-## 📜 Citation
-```bibtex
-  @misc{hanoona2024LLaVA++,
-          title={LLaVA++: Extending Visual Capabilities with LLaMA-3 and Phi-3},
-          author={Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad S.},
-          url={https://github.com/mbzuai-oryx/LLaVA-pp},
-          year={2024}
-  }
-```
-
----
-[<img src="images/logos/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
-[<img src="images/logos/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
-[<img src="images/logos/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
