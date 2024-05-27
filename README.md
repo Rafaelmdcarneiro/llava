@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Models">
 </p>
----
 
 ## 📢 Latest Updates
 - **Apr-30-24**- LLaMA-3-V and Phi-3-V demos are now available via Hugging Face Spaces. Check them out at [LLaMA-3-V](https://huggingface.co/spaces/MBZUAI/LLaMA-3-V) &  [Phi-3-V](https://huggingface.co/spaces/MBZUAI/Phi-3-V) 🔥🔥🔥
